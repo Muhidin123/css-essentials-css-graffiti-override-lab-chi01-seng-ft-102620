@@ -8,11 +8,6 @@
   display: none;
 }
 
-#wall .wicked {
-  display: none;
-}
-
-
 
 div ~ .parent {
   display: none;
