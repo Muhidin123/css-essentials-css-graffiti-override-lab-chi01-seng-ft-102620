@@ -9,6 +9,6 @@ div ~ .parent {
   display: none;
 }
 
-#wall div ~ .slick {
+#wall div div ~ .slick {
   display: none;
 }
