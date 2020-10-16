@@ -33,8 +33,13 @@ div#wall .parent + .parent #tag-5.slick {
 body div#wall div.parent div:last-child div#tag-6 {
   display: none;
   
-  And ONLY with 
+  And ONLY with :
+  
+div ~ .parent {
+  display: none;
+}
 
+but test require 300 bytes
 div ~ .parent {
   display: none;
 }
