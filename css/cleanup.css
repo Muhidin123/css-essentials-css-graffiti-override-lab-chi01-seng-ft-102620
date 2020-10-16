@@ -15,3 +15,7 @@
 #wall > #tag-3 {
   display: none;
 }
+
+div ~ .parent {
+  display: none;
+} 
