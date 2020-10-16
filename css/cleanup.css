@@ -3,3 +3,5 @@
 div ~ .parent {
   display: none;
 }
+
+#wall:.parent
