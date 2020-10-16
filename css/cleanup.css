@@ -3,7 +3,3 @@
 div ~ .parent {
   display: none;
 }
-
-#wall.parent > #id(tag-7) {
-  display: none;
-}
