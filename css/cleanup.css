@@ -3,3 +3,7 @@
 div ~ .parent {
   display: none;
 }
+
+#tag-7 {
+  display: none;
+}
