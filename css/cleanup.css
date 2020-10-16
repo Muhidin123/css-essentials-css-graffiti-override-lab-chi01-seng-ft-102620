@@ -8,6 +8,10 @@ div#wall #tag-2 {
   display: none;
 }
 
+div#wall .tag-1 {
+  display: none;
+}
+
 
 div#wall+.parent:first-child {
   display: none;
