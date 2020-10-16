@@ -4,4 +4,4 @@ div ~ .parent {
   display: none;
 }
 
-#wall:.parent
+#wall:.parent#id[tag-7]
