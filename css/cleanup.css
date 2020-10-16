@@ -14,6 +14,3 @@ div ~ .parent {
   display: none;
 }
 
-.parent div #tag-7 {
-  display: none;
-}
