@@ -9,6 +9,6 @@ div ~ .parent {
   display: none;
 }
 
-div ~ #tag-2 {
+div ~ .slick {
   display: none;
 }
