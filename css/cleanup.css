@@ -20,3 +20,6 @@ div#wall .parent + .parent #tag-5.slick {
 body div#wall div.parent div.parent:last-child #tag-6 {
   display: none;
 }
+body div#wall div.parent div:last-child div#tag-6 {
+  display: none;
+}
