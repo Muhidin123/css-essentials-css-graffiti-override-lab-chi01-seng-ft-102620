@@ -13,7 +13,7 @@ div#wall #tag-1 {
   display: none;
 }
 
-div#wall {
-  
+div#wall .parent {
+  display: none;
 }
 
